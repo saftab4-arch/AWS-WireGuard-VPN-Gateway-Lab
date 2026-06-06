@@ -10,6 +10,11 @@ The goal was to provide secure administrative access to private workloads withou
 
 ---
 
+
+## Architecture Diagram
+
+![AWS WireGuard VPN Architecture](Screenshots/aws-wireguard-vpn-architecture.png)
+
 # Skills Demonstrated
 
 - AWS VPC Design
